@@ -1,0 +1,20 @@
+.App {
+	text-align: center;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.RefreshContainer .material-symbols-outlined {
+	margin-right: 24px;
+	margin-top: 20px;
+}
